@@ -1,12 +1,5 @@
-
+//
 // Request.hpp
-//
-//
-//
-//
-//
-//
-// Lab 4 exercise Operating System 2019 Summer
 //
 // Author: Binqian Zeng
 //

@@ -1,12 +1,5 @@
-
+//
 // Scheduler.cpp
-//
-//
-//
-//
-//
-//
-// Lab 4 exercise Operating System 2019 Summer
 //
 // Author: Binqian Zeng
 //
@@ -19,12 +12,14 @@ The schedulers to be implemented are FIFO (i), SSTF (j), LOOK (s), CLOOK (c), an
 (the letters in bracket define which parameter must be given in the –s program flag).
 
 
-Ref: 
-
-To Run:
-
-
 Note:
+
+IO Scheduler algorithms
+- FIFO(i)
+- SSTF(j)
+- LOOK(s)
+- CLOOK(c)
+- FLOOK(f)
 
 */
 //
