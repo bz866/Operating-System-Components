@@ -1,8 +1,7 @@
-Operating System Lab 2 Submission
+Discrete Event Simulation Process Scheduler
 
-Author: Binqian Zeng
-NetID: bz866
-Email: bz866@nyu.edu
+Author: Eric Zeng
+Email: ericzengsearchll@gmail.com
 
 *** MakeFile:
 

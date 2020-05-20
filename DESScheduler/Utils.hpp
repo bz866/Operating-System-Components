@@ -6,7 +6,6 @@
 //
 //
 //
-// Lab 2 exercise Operating System 2019 Summer
 //
 // Author: Binqian Zeng
 //
