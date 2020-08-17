@@ -1,6 +1,4 @@
-Operating System Lab 1 Submission
-
-Author: Binqian Zeng
+Author: Eric Zeng
 NetID: bz866
 Email: bz866@nyu.edu
 
