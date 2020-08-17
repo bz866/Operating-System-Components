@@ -1,7 +1,7 @@
 Discrete Event Simulation Process Scheduler
 
 Author: Eric Zeng
-Email: ericzengsearchll@gmail.com
+Email: bz866@nyu.edu
 
 *** MakeFile:
 
